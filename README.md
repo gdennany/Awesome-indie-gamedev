@@ -276,6 +276,7 @@
 
 ### Press & Influencers
 
+- [Bounty Board](https://www.bountyboard.gg/for-studios) - Paid gaming creator campaigns and game-key distribution for indie studios.
 - [Keymailer](https://keymailer.co) - Key distribution
 - [Woovit](https://woovit.com) - Influencer outreach
 - [Games Press](https://www.gamespress.com) - Press releases
